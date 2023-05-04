@@ -1,3 +1,7 @@
 question 3 
 
-First, we used our function f(x) = ln(x+1) to solve the differential equation initial value
+First, we used our function f(x) = ln(x+1) to solve the differential equations initial value problem, which was (dy/dx) = f(x)*(1-y), y(0) = 2.
+As you can see in the equations above, we found the constant and then took the derivative of y. After, we created an algorithm to perform Euler's method.
+Then, using Euler's method we created a graph which shows are results. Next, we created an algorithm to perform Runge-Kutta's 4th order method.
+We used the algorithm to find three different solutions on a given interval and graphed the three different solution. Lastly, we computed the errors and created a table for our results.
+Our numerical methods worked, because we took inputs in for both methods and outputed solutions for both methods.
